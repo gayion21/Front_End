@@ -1,3 +1,4 @@
+// 괄호 짝이 알맞게 되어있으면 true, 아니면 false~!
 let input = "(())(())))))";
 
 let state = true;

@@ -1,3 +1,4 @@
+// 괄호 안에 있지 않는 문자열 출력
 const input = "(A(GBB)Q)ABF(CP)"  // output : ABF
 let stack = [];
 
